@@ -1,0 +1,8 @@
+myvenv/
+data/
+.git/
+__pycache__/
+*.pyc
+.vscode/
+*.webm
+*.pt

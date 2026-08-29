@@ -1,3 +1,23 @@
 .vscode/*
+myvenv/
 
-myvenv
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# ML / model weights
+*.pt
+*.pth
+*.onnx
+runs/
+
+# datasets and media — you already have these under data/, so this is really just belt-and-suspenders
+data/
+
+# env / secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
