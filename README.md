@@ -1,4 +1,6 @@
-# Butter -- No jam.
+# Butter 
+
+*No jam*
 
 A density-aware adaptive traffic light system that replaces fixed-time signal cycles with real-time, vision-driven signal control — built without relying on hand-tuned thresholds for the decision logic.
 
